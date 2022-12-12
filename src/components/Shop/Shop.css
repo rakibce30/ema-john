@@ -1,0 +1,13 @@
+.shop-wrap {
+    display: flex;
+
+}
+.product-wrap {
+    width: 70%;
+    margin-left: 80px;
+    margin-right: 10px;
+    border-right: 1px solid lightgray;
+}
+.cart-wrap {
+    padding: 15px;
+}
